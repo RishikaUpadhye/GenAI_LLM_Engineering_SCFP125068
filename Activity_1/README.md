@@ -1,4 +1,4 @@
-# IMDB Sentiment Classification using RNN
+# IMDB Sentiment Classification using RNN          
 
 ## Overview
 
