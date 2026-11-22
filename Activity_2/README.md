@@ -1,4 +1,4 @@
-# IMDB Sentiment Classification — RNN vs LSTM
+# IMDB Sentiment Classification — RNN vs LSTM  
 
 ## Overview
 
