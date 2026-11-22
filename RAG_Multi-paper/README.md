@@ -1,5 +1,5 @@
 # Multi-Paper Research Assistant (RAG)
-
+ 
 A notebook-based Retrieval-Augmented Generation (RAG) project that loads
 three research-paper PDFs, stores their text chunks in Chroma DB, and
 answers questions using a Groq-hosted language model.
